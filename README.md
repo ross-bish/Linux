@@ -28,6 +28,10 @@ Absolutely! Introducing Linux to your students is a great idea. Here's a brief h
 - **Operating System**: Linux is an operating system, like Windows or macOS. It manages the hardware and software resources of a computer, allowing you to run programs and perform tasks.
 - **Kernel**: The core part of Linux is the kernel, which manages the system's resources and allows communication between hardware and software.
 
+![image](https://github.com/ross-bish/Linux/assets/83789503/f7e790b8-91c0-476e-9f95-c081eba88aa3)
+
+
+
 **Why Use Linux?**
 - **Free and Open Source**: Linux is free to use and open source, meaning anyone can view, modify, and distribute the source code. This fosters a community of collaboration and innovation.
 - **Versatile and Powerful**: Linux is used in various environments, from personal computers to servers, smartphones (Android is based on Linux), and even supercomputers.
@@ -42,7 +46,7 @@ Absolutely! Introducing Linux to your students is a great idea. Here's a brief h
 - **Graphical User Interface (GUI)**: Most Linux distributions also provide a user-friendly graphical interface, making it easy for beginners to navigate and use.
 
 **Getting Started** 🚀
-1. **Choosing a Distro**: For beginners, Ubuntu is a great starting point due to its user-friendly interface and strong community support.
+1. **Choosing a Distro**: For beginners, _**Ubuntu**_ is a great starting point due to its user-friendly interface and strong community support.
 2. **Installing Linux**: Linux can be installed on your computer alongside another operating system (dual-boot) or run in Windows Powershell using WSL.
 3. **Exploring**: Start by exploring the desktop environment, getting familiar with the file system, and trying out some basic terminal commands.
 
