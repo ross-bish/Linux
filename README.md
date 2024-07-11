@@ -41,7 +41,7 @@ Absolutely! Introducing Linux to your students is a great idea. Here's a brief h
 - **Command Line Interface (CLI)**: Linux is famous for its powerful command line interface, which can seem intimidating at first but offers great flexibility and control. Commands are entered into a terminal, and even basic commands can perform powerful tasks.
 - **Graphical User Interface (GUI)**: Most Linux distributions also provide a user-friendly graphical interface, making it easy for beginners to navigate and use.
 
-**Getting Started**
+**Getting Started** 🚀
 1. **Choosing a Distro**: For beginners, Ubuntu is a great starting point due to its user-friendly interface and strong community support.
 2. **Installing Linux**: Linux can be installed on your computer alongside another operating system (dual-boot) or run in Windows Powershell using WSL.
 3. **Exploring**: Start by exploring the desktop environment, getting familiar with the file system, and trying out some basic terminal commands.
