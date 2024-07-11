@@ -2,7 +2,7 @@
 
 ![image](https://github.com/ross-bish/Linux/assets/83789503/573f3262-d19a-44a2-b6ef-d91ed34cb1ea)
 
-Absolutely! Introducing Linux to your students is a great idea. Here's a brief history and introduction to Linux that should be accessible and interesting for beginner programmers.
+
 
 ---
 
@@ -21,6 +21,8 @@ Absolutely! Introducing Linux to your students is a great idea. Here's a brief h
 **1990s-Present: Growth and Evolution**
 - **GNU/Linux**: Linux grew rapidly, combining the kernel with GNU (a collection of free software tools developed by Richard Stallman and the Free Software Foundation) to create a full operating system often called GNU/Linux.
 - **Open Source Movement**: Linux became a cornerstone of the open source movement, where software is freely available, modifiable, and shareable. This philosophy has driven innovation and collaboration in software development.
+
+---
 
 ## Introduction to Linux for Beginners 📚🧑🏽‍💻
 
