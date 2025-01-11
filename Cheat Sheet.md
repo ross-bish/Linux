@@ -1,4 +1,4 @@
-# Linux Commands - Basic Cheat Sheet 
+# Linux Commands - Basic Cheat Sheet 🐧
 ![image](https://github.com/user-attachments/assets/f9130133-9cc3-4576-936e-e9fce58e50b1)
 
 ## Navigation and Information 🧭
