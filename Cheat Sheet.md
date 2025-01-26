@@ -29,3 +29,18 @@
 | `rm -ri`      | Removes a directory with confirmation prompts.                |
 
 
+## Bash Scripting Basics 🚀  
+
+| Command / Syntax        | Function / Explanation                                                   |  
+|--------------------------|-------------------------------------------------------------------------|  
+| `#!/bin/bash`            | Shebang: Specifies the interpreter (in this case, Bash) for the script. |  
+| `bash [scriptname.sh]`   | Runs a script using the Bash interpreter.                               |  
+| `chmod +x [scriptname.sh]`| Makes a script executable so it can be run with `./scriptname.sh`.      |  
+| `echo`                   | Prints text or variables to the terminal (e.g., `echo "Hello World!"`). |  
+| `read`                   | Reads input from the user (e.g., `read name`).                          |  
+| `$1`, `$2`, ...          | Positional arguments passed to the script (e.g., `./script.sh arg1`).    |  
+| `$(command)`             | Command substitution: Runs a command and uses its output (e.g., `user=$(whoami)`). |  
+| `sleep [seconds]`        | Pauses script execution for a specified number of seconds.              |  
+
+---
+
